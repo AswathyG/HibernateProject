@@ -2,13 +2,13 @@ package org.ashish.learnspring;
 
 public class Point {
 	
-	private int x;
+	private int z;
 	private int y;
 	public int getX() {
-		return x;
+		return z;
 	}
-	public void setX(int x) {
-		this.x = x;
+	public void setX(int z) {
+		this.z = z;
 	}
 	public int getY() {
 		return y;
